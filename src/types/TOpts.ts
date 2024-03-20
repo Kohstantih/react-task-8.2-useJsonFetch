@@ -1,0 +1,1 @@
+export type TOpts = {dataInitial: {status: string | null}}

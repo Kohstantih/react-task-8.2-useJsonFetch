@@ -1,0 +1,1 @@
+export type TuseJsonFetch<T, D> = (url: string, opts: T) => [data: D, loading: boolean, error: string | null]
